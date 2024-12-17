@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lerrman-1
+- 👋 Hi, I’m @lerrman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Astro and React
 - 💞️ I’m looking to collaborate on 
